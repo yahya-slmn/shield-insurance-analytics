@@ -113,4 +113,4 @@ Original datasets are not included due to project confidentiality and internship
 **Yahya Sleiman**
 
 🔗 LinkedIn: https://www.linkedin.com/in/yahya-sleiman-6b742a356
-<!--🔗 Portfolio: PASTE_PORTFOLIO_LINK-->
+🔗 Portfolio: https://yahya-datafolio.netlify.app/
